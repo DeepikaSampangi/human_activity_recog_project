@@ -41,3 +41,21 @@ Notes:
 - Each feature vector is a row on the text file.
 - The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
 - The gyroscope units are rad/seg.
+
+
+Executing :
+======
+# Human Activity Recognition (HAR) using Machine Learning and Deep Learning
+
+This project demonstrates how to classify human activities (like walking, sitting, laying, etc.) using data from smartphone accelerometers and gyroscopes. It uses both classical ML models (Random Forest, SVM) and deep learning models (CNN, LSTM) for comparison.
+
+---
+
+## 📦 Requirements
+
+Install the required libraries:
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
+
+jupyter notebook human_activity_recognition.ipynb
