@@ -51,7 +51,7 @@ This project demonstrates how to classify human activities (like walking, sittin
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install the required libraries:
 
